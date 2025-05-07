@@ -63,7 +63,7 @@ With recent advances in machine learning, semantic segmentation algorithms are b
 <br/>
 
 ## Objective
-To address these problems, in this project, as part of the **MSD challenge**, I propose a generic **machine learning segmentation algorithm** which I applied on two organs: ***liver & tumors, spleen***. I propose an **unsupervised generic multi-class model by implementing U-net CNN architecture with Generalized Dice Coefficient** as metric and also for loss function.
+To address these problems, in this project, as part of the **MSD challenge**, I propose a generic **machine learning segmentation algorithm** which I applied on two organs: ***liver & tumors, spleen***. I propose an **generic multi-class model by implementing U-net CNN architecture with Generalized Dice Coefficient** as metric and also for loss function.
 
 <br/>
 
